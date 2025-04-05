@@ -6,7 +6,7 @@ A personal vault of things I learn daily — from AI, backend engineering and da
 
 ## 📚 Categories
 
-- [AI-ML] (./ai-ml)
+- [AI-ML](./ai-ml)
 - [Backend](./backend)
 - [Frontend](./frontend)
 - [DevOps](./devops)
