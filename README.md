@@ -1,6 +1,6 @@
 # Today I Learned (TIL) 🧠
 
-A personal vault of things I learn daily — from AI, backend engineering and database quirks to DevOps and Git magic.
+A personal vault of things I learn daily: from AI, backend engineering and database quirks to DevOps and Git magic.
 
 ---
 
